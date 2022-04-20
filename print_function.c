@@ -46,7 +46,7 @@ int print_int(va_list arg)
 
 
 /**
- * print_STR - prints a string with a `S` 
+ * print_STR - prints a string with a `S`
  * (upper case) specificer
  * @arg: argument
  * Return: number of character printed
@@ -80,7 +80,7 @@ int print_STR(va_list arg)
 }
 
 /**
- * print_str - prints a string with a `s` 
+ * print_str - prints a string with a `s`
  * (lower case) specifier
  * @arg: argument
  * Return: number of character printed
